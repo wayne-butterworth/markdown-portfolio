@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to program in **Java**, **Python**, **Cachescript** or **Javascript**
+I neccessary, I can program in C#, VB.NET
+*I prefer non .net, though*
